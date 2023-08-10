@@ -16,6 +16,6 @@ bash kubernetes.sh
 
 bash tf_install.sh
 
->> For AWS Installtion:
+>> For AWS CLI Installtion:
 
 bash aws_install.sh
